@@ -94,9 +94,5 @@ class _FavoriteGIFPageState extends State<FavoriteGIFPage> {
 
 }
 
-class FavList {
-  List<String> listGif;
-  FavList({required this.listGif});
-}
 
 

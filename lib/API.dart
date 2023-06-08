@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-//my API AIzaSyCcKkgfBmNOutFP6RH6R-YCfn1I4MKiEZY
+
 class GIF {
   GIF({
     required this.results,
